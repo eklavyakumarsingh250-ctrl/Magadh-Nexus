@@ -21,4 +21,4 @@ This protocol is engineered to run entirely on ARM64 Android Kernel via Termux.
 Built in **Dhutauli, Bihar**, this project serves the **Fleet Manager** operating in disconnected infrastructure zones. By providing a lightweight, terminal-based Command Center, we empower local transporters to unlock global liquidity through the Creditcoin network.
 
 ---
-*Built by Veteran  | BUIDL CTC 2024 Submission*
+*Built by Veteran  | BUIDL CTC 2026 Submission*
